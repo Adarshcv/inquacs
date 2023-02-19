@@ -1,4 +1,6 @@
-
+*{
+  overflow: auto;
+}
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');s
   .fa, .fab, .fal, .far, .fas {
     -moz-osx-font-smoothing: grayscale;
